@@ -1,0 +1,27 @@
+#home{
+    background-color: red;
+    color:yellow;
+}
+
+body{
+    margin:0;
+    padding:0
+    background-color:blue;
+    color:yellow;
+    font-family:'Franklin Gothic Medium','arial narrow',arial, sans-serif;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+header nav a{
+    font-size: 24px;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
